@@ -4,6 +4,8 @@
 
 In .NET MAUI (Multi-platform App UI), **StackLayout** is a versatile container that can arrange its child elements in either a **horizontal** or **vertical** manner. This capability depends on the **Orientation** property, which allows developers to choose how they want the child elements to be arranged within the layout.
 
+![Screenshot 2024-10-08 at 7 20 23 PM](https://github.com/user-attachments/assets/d3417cf2-7ebd-4eb3-955b-c668bbc685dd)
+
 ### Horizontal StackLayout
 
 **Horizontal StackLayout** is a type of StackLayout where the **Orientation** is set to **Horizontal**. This means that all child elements are aligned **side by side** from **left to right**. This layout type is particularly useful when creating rows of controls or arranging UI components horizontally across the screen.
@@ -79,3 +81,4 @@ While StackLayout is easy to use, it can lead to **performance issues** if used 
 - [.NET MAUI Documentation](https://learn.microsoft.com/en-us/dotnet/maui/)
 - [Microsoft Learn - StackLayout](https://learn.microsoft.com/en-us/dotnet/maui/user-interface/layouts/stacklayout)
 - [Xamarin StackLayout (also applicable to MAUI)](https://learn.microsoft.com/en-us/xamarin/xamarin-forms/user-interface/layouts/stacklayout)
+- https://www.codeproject.com/Articles/1227733/Xamarin-Notes-Xamarin-Forms-Layouts
